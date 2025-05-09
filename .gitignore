@@ -1,0 +1,13 @@
+# Fichiers sensibles
+.env
+
+# Fichiers de données générés
+movies_enriched.csv
+
+# Fichiers Python inutiles
+__pycache__/
+*.pyc
+
+# Environnements virtuels
+venv/
+env/
