@@ -57,6 +57,11 @@ Tu peux ensuite effectuer des requêtes SQL pour analyser :
 - Le casting le plus récurrent, etc.
 
 ---
+### 📂 Données incluses
+
+Le fichier `movies_enriched.csv` est directement inclus dans ce dépôt afin de faciliter l’accès aux données sans avoir besoin de réexécuter le script d’extraction.  
+
+Cette base de données a été générée à partir de l’API TMDB et peut être utilisée directement pour les analyses SQL présentées dans ce projet.
 
 ## 📚 Fonctionnalités prévues
 
