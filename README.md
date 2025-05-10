@@ -68,4 +68,6 @@ Cette base de données a été générée à partir de l’API TMDB et peut êtr
 - ✅ Extraction des données via l'API TMDB.  
 - ✅ Nettoyage et enrichissement des données.  
 - ✅ Création d'une base de données relationnelle normalisée.  
-- ✅ Analyse via requêtes SQL.  
+- ✅ Analyse via requêtes SQL.
+
+  📖 *Ce projet a été réalisé en collaboration avec Lucien Bauer Eberspecher dans le cadre d'un devoir académique.*
